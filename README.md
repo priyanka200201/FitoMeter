@@ -1,1 +1,1 @@
-# FitoMeter
+Fitness Tracking Application
